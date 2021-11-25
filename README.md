@@ -1,5 +1,5 @@
 # fifApp
-aplication android
+Application Android.
 Faites vos commandes directement depuis cette application.
 * Gestion des comptes clients et professionnels.
 * Commandes.
