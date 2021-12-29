@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.fifa.restaurant"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.fifa.restaurant.modele.PartnerActivity" />
+        <activity android:name="com.fifa.restaurant.controleur.ActivityLogin" />
+        <activity android:name="com.fifa.restaurant.modele.ConnectActivity" />
+        <activity android:name="com.fifa.restaurant.modele.UserActivity" />
+        <activity android:name="com.fifa.restaurant.modele.PartnerSearchActivity" />
+        <activity android:name="com.fifa.restaurant.modele.AccountActivity" />
+        <activity android:name="com.fifa.restaurant.modele.BookingActivity" />
+        <activity android:name="com.fifa.restaurant.modele.OrderActivity" />
+        <activity android:name="com.fifa.restaurant.modele.MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.fifa.restaurant.modele.NextActivity"> </activity>
+        <activity android:name="com.fifa.restaurant.modele.DataActivity" > </activity>
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="@string/default_notification_channel_id"/>
+    </application>
+
+
+</manifest>

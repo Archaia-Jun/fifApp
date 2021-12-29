@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lv" type="id" />
+    <item name="select" type="id" />
+    <item name="deselect" type="id" />
+    <item name="next" type="id" />
+    <item name="activity_website_button" type="id" />
+   <!-- <item name="button_browser" type="id">btnBrowser</item> -->
+</resources>

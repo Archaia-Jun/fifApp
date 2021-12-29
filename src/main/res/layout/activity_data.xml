@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewRGDP"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Données personnelles et utilisation des cookies \n\n
+
+POLITIQUE DE PROTECTION DES DONNEES PERSONNELLES \n\n
+
+Mise à jour : octobre 2019\n\n
+
+Dans le cadre de la mise en application du nouveau Règlement sur la Protection des Données Personnelles (RGPD) applicable depuis le 25 mai 2018, le restaurant Fifa souhaite présenter en toute transparence et loyauté sa politique de protection des données personnelles.\n\n
+
+
+La présente politique a pour vocation de vous informer de la manière dont nous utilisons et protégeons vos données personnelles, ainsi que des raisons pour lesquelles nous traitons ces données.\n
+Au travers de cette politique, le restaurant Fifa s’engage à mettre tout en œuvre pour protéger vos données personnelles en assurant le meilleur niveau de sécurité et de confidentialité, et ce en conformité avec la réglementation applicable.\n\n
+
+
+La société Fifa, (société à responsabilité limitée, immatriculée au RCS de Paris sous le numéro D407561851 et dont le siège social est situé 16 rue Jospeh Dijon – 74018 PARIS), agis en qualité de Responsables de traitement des données personnelles qu’elles sont amenées à collecter dans le cadre de leurs activités.\n\n
+
+
+La présente politique aborde l’ensemble des principes mis en œuvre en matière de protection des données personnelles en distinguant celles relatives :\n
+- aux visiteurs du site https://fifaparis.000webhostapp.com/ \n
+- aux utilisateurs de l’application Android FifApp\n
+- aux prospects et clients\n\n
+
+
+La personne concernée dont les données personnelles sont traitées par le restaurant Fifa accepte qu'elles le soient conformément à la présente politique. \n\n
+
+TRAITEMENT DES DONNÉES PERSONNELLES LORS DE LA VISITE DU SITE WEB\n\n
+
+DONNÉES PERSONNELLES COLLECTÉES ET TRAITÉES\n
+Lorsque vous visitez notre site, certaines données techniques vous concernant et en lien avec votre activité sur le site sont collectées automatiquement.\n\n
+
+
+Sont notamment collectées : votre adresse IP et votre fournisseur d'accès Internet (FAI), le type de navigateur et l'identifiant de votre appareil, le système d’exploitation, les préférences linguistiques, vos données de connexion, la date et l’heure de l’accès au site, les pages visitées du site, les liens sur lesquels vous cliquez, les pages consultées, les données envoyées.
+Nous collectons certaines de ces informations par des procédés automatisés notamment via des cookies. Pour plus de détails, nous vous invitons à consulter notre Politique des cookies.
+Nous collectons également les informations que vous renseignez dans les formulaires de contact présents sur le site, telles que : nom, prénom, téléphone, email, objet, destinataire, message.\n\n
+
+FINALITÉS DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+Les données personnelles susvisées sont collectées pour les finalités suivantes :\n
+- l’amélioration de l’ergonomie de notre site web, sa gestion et l’administration du système\n
+- vous assurer un contenu du site le plus adapté à votre appareil\n
+- la réalisation de statistiques ou analyses\n
+- répondre à vos requêtes formulées au moyen des formulaires présents sur le site\n\n
+BASE JURIDIQUE DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+Les traitements de vos données personnelles ont pour fondement votre consentement ainsi que la poursuite des intérêts légitimes du restaurant Fifa pour les finalités évoquées.\n\n
+DESTINATAIRES DES DONNÉES PERSONNELLES\n
+Les données personnelles sont susceptibles d’être communiquées :\n
+- aux collaborateurs permanents du restaurant Fifa\n
+- à des prestataires ou sous-traitants du restaurant Fifa qui fournissent des services conformément à leurs instructions. Ces prestataires ou sous-traitants auront un accès aux seules données personnelles nécessaires à la réalisation de leur mission et ne pourront utiliser les données à d’autres fins. \n
+Ils seront également soumis à une obligation de confidentialité quant aux données personnelles confiées à certaines autorités, administrations ou tout autre tiers si la réglementation ou la législation l’impose.\n\n
+DURÉE DE CONSERVATION DES DONNES PERSONNELLES\n
+De façon générale, vos données à caractère personnel sont conservées pendant une durée limitée qui n’excède pas la durée nécessaire aux finalités pour lesquelles elles ont été collectées. Les délais de conservation des données personnelles varient en fonction de la nature des données, de la finalité des traitements, en fonction des exigences légales ou réglementaires et des délais de prescription des actions ou réclamations susceptibles d'être engagées.\n\n
+SÉCURITÉ DES DONNÉES PERSONNELLES\n
+Le restaurant Fifa s'engage à prendre toutes mesures qu’il estime utiles et appropriées au regard de la nature des données, afin de garantir la sécurité et la confidentialité de vos données personnelles et, notamment d’empêcher qu’elles ne soient déformées, endommagées, ou que des tiers non autorisés y aient accès. Le restaurant Fifa s’engage à n'effectuer aucun transfert de vos données personnelles en dehors du territoire de l'Union européenne, hormis vers des pays tiers reconnus comme « à protection adéquate » par la Commission Européenne, soit dans le cadre de clauses contractuelles type adoptées par la Commission Européenne, soit sous couvert de règles d’entreprise contraignantes. \n\n
+VOS DROITS EN MATIÈRE DE PROTECTION DE DONNÉES PERSONNELLES\n
+Vous disposez du droit de demander l’accès à vos données à caractère personnel, la rectification ou l’effacement de celles-ci (sauf si nous disposons d’une raison légitime à conserver vos données personnelles), une limitation du traitement (sauf raison légitime à ne pas y faire droit), du droit de s’opposer au traitement (sauf raison légitime pour continuer à traiter vos données personnelles), ainsi que du droit à la portabilité de vos données.\n
+Lorsque nous traitons vos données personnelles sur la base de votre consentement, vous disposez du droit de retirer votre consentement à tout moment, sans que cela porte atteinte à la licéité du traitement avant le retrait votre consentement.\n
+Ces droits peuvent être exercés auprès du référent RGPD du restaurant Fifa par courrier : 6 Rue des Frères Lumière – 91080 COURCOURONNES ou par mail : fifaparis@netcourrier.com. La demande devra être accompagnée impérativement de votre copie de pièce d’identité. Vous disposez, par ailleurs, du droit d’introduire une réclamation auprès de la CNIL, l’autorité de contrôle. \n\n
+TRAITEMENT DES DONNÉES PERSONNELLES DES CANDIDATS ET SALARIES (INTÉRIMAIRES ET PERMANENTS)\n
+Sont considérés comme candidats, au sens de la présente politique, toute personne sollicitant les services du restaurant Fifa aux fins de conclure un contrat de travail en qualité de salarié intérimaire ou permanent avec le restaurant Fifa.\n
+
+A l’occasion de la collecte des données personnelles, les réponses ou mentions obligatoires des formulaires à renseigner sont précédées de la mention « * » et les mentions facultatives sont sans conséquence pour l’examen de votre candidature. Cela étant le plus grand nombre d’informations collectées est utile pour vous proposer un emploi le plus adapté. Vous certifiez par ailleurs que les réponses données soient exactes et informerez le cas échéant le responsable de traitement de toute modification quant à votre situation. \n\n
+DONNÉES PERSONNELLES SUSCEPTIBLES D’ÊTRE COLLECTÉES ET TRAITÉES \n
+Le restaurant Fifa est amené à collecter des données personnelles telles que notamment : \n
+ - nom, prénom, civilité, date et lieu de naissance, nationalité, e-mail, adresse, téléphones, situation de famille, nombre d’enfants à charge, personne à contacter en cas de besoin, données sensibles en lien avec la santé (reconnaissance de travailleur handicapé, pension d’invalidité…), statut étudiant, profil linkedin et viadeo, numéro de sécurité sociale, statut (demandeur d’emploi, RSA…), situation professionnelle\n
+- l’environnement de travail souhaité, fonction et secteur recherchés, date de disponibilité, rémunération souhaitée, préférences de contrat, lieu de travail souhaité\n
+- diplômes, niveau d’études, moyen de transport et mobilité, expériences professionnelles,\n formations, langues, permis, habilitations, certifications, coordonnées d’anciens employeurs, pour un éventuel contrôle de référence, évaluation du personnel du restaurant Fifa en lien avec votre candidature.\n
+- CV, copies de documents d’identité, de la carte vitale, du titre de séjour valant autorisation de travail\n
+- photo d’identité, l’extrait B3 du casier judiciaire pour certains postes spécifiques\n
+- justificatif de domicile, carte grise\n
+- résultats des évaluations, entretiens et tests professionnels passés\n
+- les photos ou vidéos où vous apparaissez et prises (avec votre accord) à l’occasion d’événements auxquels vous participez\n
+- données relatives à votre rémunération, vos coordonnées bancaires, le taux de retenue à la source…\n
+- données relatives aux conditions d’exécution de votre mission ou contrat de travail et relatives aux formations suivies \n
+- tout commentaire à votre sujet de notre personnel nécessaire à l’exécution de votre contrat\n
+- données de santé en lien avec la médecine du travail, la gestion des arrêts de travail, la gestion des accidents de travail ou maladies professionnelles et en lien avec la prévoyance et la mutuelle\n
+- les informations en lien avec votre navigation sur le site et les données de connexion\n
+- vos réponses aux enquêtes de satisfaction et sondages réalisés par le restaurant Fifa\n\n
+FINALITÉS DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+L’ensemble des données susvisées sont collectées pour les finalités suivantes :\n
+- assurer la gestion de vos candidatures, évaluer votre aptitude à un poste\n
+- vous proposer des programmes d’évaluation des connaissances et de des actions de formation\n professionnelle aux fins d’amélioration de vos employabilité et compétences et en assurer la gestion\n
+- vous proposer des offres d’emploi en lien avec votre profil, vos compétences et disponibilités\n
+- établir vos contrats de travail et réaliser l’ensemble des déclarations administratives et formalités obligatoires\n
+- établir vos bulletins de paie et les déclarations sociales et fiscales qui en découlent et les paiements correspondants\n
+- assurer la gestion du personnel (dossier salarié, organisation du suivi médical, élections professionnelles et gestion des réunions des instances
+représentatives, gestion de l'action sociale et culturelle, gestion des accidents du travail et des maladies professionnelles, mutuelle, prévoyance, gestion du disciplinaire, gestion de carrière…)\n
+- plus généralement, permettre au restaurant Fifa de respecter ses obligations légales, conventionnelles, contractuelles et réglementaires\n
+- gérer la relation commerciale avec nos clients et partenaires : Pour les collaborateurs intérimaires, fournir à l’entreprise cliente les informations et nécessaires à la délégation et en cas de placement communiquer aux entreprises clientes les informations nécessaires à l’établissement du contrat de travail\n
+- vous fournir un accès à l’espace personnel que vous avez créé sur notre site et de vous permettre l’utilisation de ses différentes fonctionnalités proposées.\n
+- vous proposer des services, notamment de dématérialisation et de stockage, fournis par les partenaires du restaurant Fifa ou par ce dernier\n
+- réaliser des audits et des contrôles internes\n
+- assurer la défense des intérêts du restaurant Fifa en cas d’actions ou de réclamations administratives ou contentieuses\n
+- réaliser des sondages et enquêtes de satisfaction\n
+- vous informer sur les opportunitées du restaurant Fifa et communiquer auprès de vous\n\n
+BASE JURIDIQUE DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+Les traitements de vos données personnelles ont pour fondement :\n
+- la poursuite des intérêts légitimes du restaurant Fifa pour les finalités évoquées\n
+- l’exécution d’un contrat auquel vous faites partie\n
+- l’exécution d’obligations légales et réglementaires mises à la charge du restaurant Fifa\n
+- votre consentement dès lors qu’il est requis par la réglementation. \n\n
+DESTINATAIRES DES DONNÉES PERSONNELLES COLLECTÉES\n
+Les données peuvent être communiquées à :\n
+- aux collaborateurs permanents du restaurant Fifa \n
+- aux institutions représentatives du personnel élues au sein du groupe\n
+- aux entreprises clientes pouvant être intéressées par votre profil candidat et en cas de détachement.\n
+- à des prestataires ou sous-traitants du restaurant Fifa qui fournissent des services conformément à leurs instructions. Ces prestataires ou sous-traitants auront un accès aux seules données personnelles nécessaires à la réalisation de leur mission et ne pourront utiliser les données à d’autres fins. Ils seront également soumis à une obligation de confidentialité quant aux données personnelles confiées. Certaines données (d’identité et de contact) peuvent ainsi être communiquées à des sociétés éditrices de test et d’évaluation de profils dans le but d’aider à la décision d’embauche.\n
+- à des organismes de formation et d’action sociale\n
+- à certaines autorités, administrations ou tout autre tiers si la réglementation ou la législation l’impose \n\n
+DURÉE DE CONSERVATION DES DONNES PERSONNELLES\n
+De façon générale, vos données à caractère personnel sont conservées pendant une durée limitée qui n’excède pas la durée nécessaire aux finalités pour lesquelles elles ont été collectées. Les délais de conservation des données personnelles varient en fonction de la nature des données, de la finalité des traitements, en fonction des exigences légales ou réglementaires et des délais de prescription des actions ou réclamations susceptibles d'être engagées. Vos données personnelles collectées en qualité de candidat sont conservées jusqu’à 2 (deux) ans après notre dernier contact.  \n\n
+SÉCURITÉ DES DONNÉES PERSONNELLES\n
+Le restaurant Fifa s'engage à prendre toutes mesures qu’il estime utiles et appropriées au regard de la nature des données, afin de garantir la sécurité et la confidentialité de vos données personnelles et, notamment d’empêcher qu’elles ne soient déformées, endommagées, ou que des tiers non autorisés y aient accès. Le restaurant Fifa s’engage à n'effectuer aucun transfert de vos données personnelles en dehors du territoire de l'Union européenne, hormis vers des pays tiers reconnus comme « à protection adéquate » par la Commission Européenne, soit dans le cadre de clauses contractuelles type adoptées par la Commission Européenne, soit sous couvert de règles d’entreprise contraignantes.  \n\n
+VOS DROITS EN MATIÈRE DE PROTECTION DE DONNÉES PERSONNELLES\n
+Vous disposez du droit de demander l’accès à vos données à caractère personnel, la rectification ou l’effacement de celles-ci (sauf si nous disposons d’une raison légitime à conserver vos données personnelles), une limitation du traitement (sauf raison légitime à ne pas y faire droit), du droit de s’opposer au traitement (sauf raison légitime pour continuer à traiter vos données personnelles), ainsi que du droit à la portabilité de vos données.\n
+Lorsque nous traitons vos données personnelles sur la base de votre consentement, vous disposez du droit de retirer votre consentement à tout moment, sans que cela porte atteinte à la licéité du traitement avant le retrait votre consentement.\n
+Ces droits peuvent être exercés auprès du référent RGPD du restaurant Fifa par courrier : 6 rue des Frères Lumière - 91080 COURCOURONNES Cedex ou par mail : rgpd@groupeFifa.eu. La demande devra être accompagnée impérativement de votre copie de pièce d’identité. Vous disposez, par ailleurs, du droit d’introduire une réclamation auprès de la CNIL, l’autorité de contrôle.  \n\n
+TRAITEMENT DES DONNÉES PERSONNELLES DES PROSPECTS ET CLIENTS\n
+Le restaurant Fifa collectent et traitent des données personnelles relatives à ses contacts et interlocuteurs au sein de ses entreprises clientes et prospects. \n\n
+DONNÉES PERSONNELLES SUSCEPTIBLES D’ÊTRE COLLECTÉES ET TRAITÉES\n
+Le restaurant Fifa et ses filiales sont amenés à collecter des données personnelles telles que notamment :\n
+- les informations relatives au contact telles que le nom, prénom, fonction, téléphone, mail professionnels, le niveau de décision et d’influence….\n
+- les échanges et actions commerciales menées auprès des clients et prospects…\n
+- les réponses aux enquêtes de satisfaction et sondages réalisés par le restaurant Fifa\n\n
+
+FINALITÉS DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+Les informations personnelles sont collectées pour les finalités suivantes :\n
+- développer notre clientèle et assurer le suivi de la relation commerciale\n
+- traiter les demandes de placement et de délégation de salariés intérimaires et exécuter le contrat de prestation conclu\n
+- établir les contrats de mise à disposition et gérer le suivi des missions\n
+- permettre au restaurant Fifa de respecter ses obligations légales, réglementaires\n
+- proposer des services dématérialisés, d’échanges de données et de stockage et en assurer la gestion éventuellement ;\n
+- réaliser la facturation et son suivi\n
+- réaliser des audits et des contrôles internes\n
+- assurer la défense des intérêts du restaurant Fifa en cas d’actions ou de réclamations légales ou contentieuses\n
+- réaliser des sondages et enquêtes de satisfaction\n
+- vous informer sur les opportunités du restaurant Fifa, communiquer auprès de vous et vous faire participer aux opérations évènementielles ou promotionnelles \n\n
+BASE JURIDIQUE DES TRAITEMENTS DES DONNÉES PERSONNELLES\n
+- Les traitements de vos données personnelles ont pour fondement :\n
+- la poursuite des intérêts légitimes du restaurant Fifa pour les finalités évoquées\n
+- l’exécution d’un contrat auquel vous faites partie ou l’exécution de mesures pré-contractuelles prises à votre demande\n
+- l’exécution d’obligations légales et réglementaires mises à la charge du restaurant Fifa\n
+- votre consentement dès lors qu’il est requis par la réglementation\n\n
+
+DESTINATAIRES DES DONNÉES PERSONNELLES COLLECTÉES ET TRAITEES\n
+Les données collectées peuvent être communiquées à :\n
+- aux collaborateurs permanents du restaurant Fifa\n
+- à des prestataires ou sous-traitants du restaurant Fifa et de ses filiales qui fournissent des services conformément à leurs instructions. Ces prestataires ou sous-traitants auront un accès aux seules données personnelles nécessaires à la réalisation de leur mission et ne pourront utiliser les données à d’autres fins. Ils seront également soumis à une obligation de confidentialité quant aux données personnelles confiées.\n
+- à certaines autorités, administrations ou tout autre tiers si la réglementation ou la législation l’impose \n\n
+DURÉE DE CONSERVATION DES DONNÉES PERSONNELLES\n
+De façon générale, vos données à caractère personnel sont conservées pendant une durée limitée qui n’excède pas la durée nécessaire aux finalités pour lesquelles elles ont été collectées. Les délais de conservation des données personnelles varient en fonction de la nature des données, de la finalité des traitements, en fonction des exigences légales ou réglementaires et des délais de prescription des actions ou réclamations susceptibles d'être engagées. Vos données personnelles collectées en qualité de candidat ou de prospect sont conservées jusqu’à 2 (deux) ans après notre dernier contact. \n\n
+SÉCURITÉ DES DONNÉES PERSONNELLES\n
+Le restaurant Fifa s'engagent à prendre toutes mesures qu’il estime utiles et appropriées au regard de la nature des données, afin de garantir la sécurité et la confidentialité de vos données personnelles et, notamment d’empêcher qu’elles ne soient déformées, endommagées, ou que des tiers non autorisés y aient accès. Le restaurant Fifa s’engage à n'effectuer aucun transfert de vos données personnelles en dehors du territoire de l'Union européenne, hormis vers des pays tiers reconnus comme « à protection adéquate » par la Commission Européenne, soit dans le cadre de clauses contractuelles type adoptées par la Commission Européenne, soit sous couvert de règles d’entreprise contraignantes. \n\n
+VOS DROITS EN MATIÈRE DE PROTECTION DE DONNÉES PERSONNELLES\n
+Vous disposez du droit de demander l’accès à vos données à caractère personnel, la rectification ou l’effacement de celles-ci (sauf si nous disposons d’une raison légitime à conserver vos données personnelles), une limitation du traitement (sauf raison légitime à ne pas y faire droit), du droit de s’opposer au traitement (sauf raison légitime pour continuer à traiter vos données personnelles), ainsi que du droit à la portabilité de vos données.\n
+Lorsque nous traitons vos données personnelles sur la base de votre consentement, vous disposez du droit de retirer votre consentement à tout moment, sans que cela porte atteinte à la licéité du traitement avant le retrait votre consentement.\n
+Ces droits peuvent être exercés par courrier auprès du référent RGPD du restaurant Fifa par courrier : 6 Rue des Frères Lumière – 91080 PARIS ou par mail fifaparis@netcourrier.com. La demande devra être accompagnée impérativement de votre copie de pièce d’identité.\n
+Vous disposez, par ailleurs, du droit d’introduire une réclamation auprès de la CNIL, l’autorité de contrôle.\n\n
+
+NOUS CONTACTER\n
+Pour toute question concernant notre politique de protection des données personnelles, vous pouvez nous contacter par mail : fifaparis@netcourrier.com. \n\n
+ÉVOLUTION DE LA POLITIQUE DE PROTECTION DES DONNÉES PERSONNELLES\n
+La présente politique peut faire l’objet de mises à jour pour prendre en compte notamment les évolutions réglementaires ou législatives ou encore tout changement en lien avec l’organisation du restaurant Fifa ou ses services. Nous vous invitons par conséquent à vérifier régulièrement la dernière date de mise à jour de notre politique de protection de données personnelles. \n\n\n\n
+
+
+Politique d'utilisation des cookies\n\n
+Que sont les cookies ?\n
+Les cookies sont des petits fichiers texte que les sites web placent sur votre ordinateur, tablette ou smartphone lors de votre navigation internet.\n
+Ils enregistrent des informations sur vos visites, vos préférences, ainsi que vos données de connexion, améliorant ainsi votre navigation.\n\n
+Pourquoi utilisons-nous des cookies sur notre site ?\n
+Nous utilisons les cookies pour :\n
+- vous éviter de vous reconnecter chaque fois à votre espace personnel,\n
+- faciliter votre inscription à nos services,\n
+- simplifier votre navigation,\n
+- mesurer l'audience de notre site Internet.\n\n
+Comment gérer les cookies ?\n
+Vous pouvez bloquer ou paramétrer les cookies de façon personnalisée dans votre navigateur Internet :\n\n
+
+- Google Chrome : https://policies.google.com/technologies/managing?hl=fr&amp;gl=be \n
+- Internet Explorer : https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies \n
+- Mozilla Firefox : https://support.mozilla.org/fr/kb/cookies-informations-sites-enregistrent \n
+- Safari : https://support.apple.com/fr-fr/HT201265 \n\n
+
+Retrouvez également sur le site de la CNIL quelques astuces et outils pour limiter vos traces de navigation sur le Web.\n
+Notez toutefois que le blocage des cookies peut entrainer un problème d'affichage de certaines pages. \n" />
+
+</ScrollView>

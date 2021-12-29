@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.fifa.restaurant.modele.ConnectActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Partenaires"
+        />
+
+    <EditText
+        android:id="@+id/ETemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        />
+    <EditText
+        android:id="@+id/ETpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:hint="Mot de passe"
+        android:inputType="textPassword"
+        />
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Inscription"/>
+    <TextView
+        android:id="@+id/TVSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Compte partenaire existant? Cliquez içi"
+        android:layout_margin="15dp"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=" \n\n Envoyez des notifications à vos clients " >
+        </TextView>
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/order_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="242dp"
+        android:layout_marginRight="242dp"
+        android:text="Order Name"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/other_information"
+        android:layout_width="wrap_content"
+        android:layout_height="22dp"
+        android:layout_below="@+id/order_name"
+        android:layout_alignStart="@+id/order_name"
+        android:layout_alignLeft="@+id/order_name"
+        android:layout_alignEnd="@+id/order_name"
+        android:layout_alignRight="@+id/order_name"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:layout_marginBottom="5dp"
+        android:text="Mail: ..."
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>
